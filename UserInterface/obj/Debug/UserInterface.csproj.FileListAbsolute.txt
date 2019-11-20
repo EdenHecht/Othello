@@ -1,0 +1,14 @@
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\GameLogic.dll
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\GamePlayers.dll
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\GameLogic.pdb
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\bin\Debug\GamePlayers.pdb
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.GameForm.resources
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.MenuForm.resources
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\UserInterface\obj\Debug\UserInterface.pdb

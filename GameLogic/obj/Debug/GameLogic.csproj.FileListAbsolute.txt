@@ -1,0 +1,7 @@
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\bin\Debug\GamePlayers.dll
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\bin\Debug\GamePlayers.pdb
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\edenh\Desktop\הגשות תכנות\git\c#\B19 Ex05 MaayanBiton 313353161 EdenHecht 315855049\B19 Ex05 Maayan 313353161 Eden 315855049\GameLogic\obj\Debug\GameLogic.pdb
